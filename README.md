@@ -2,7 +2,7 @@
 All sorts of different colabs for all occasions...
 
 #### VAE experiments:
-- Изучаем возможности автоэнкодеров формировать кластеры в латентном пространстве, исключителньо на основе геометрии<br/>
+- Изучаем возможности автоэнкодеров формировать кластеры в латентном пространстве, исключительyо на основе геометрии<br/>
   <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/shapes%20VAE.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
