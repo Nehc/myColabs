@@ -23,10 +23,10 @@ All sorts of different colabs for all occasions...
 
 #### Entropy shots:
 - Image entropy<br/>
-  <a target="_blank" href="https://colab.research.google.com/github.com/Nehc/myColabs/blob/main/image_entropy.ipynb">
+  <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/image_entropy.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 - SVD example<br/>
-  <a target="_blank" href="https://colab.research.google.com/github.com/Nehc/myColabs/blob/main/svd.ipynb">
+  <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/svd.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
