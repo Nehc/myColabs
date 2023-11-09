@@ -16,7 +16,7 @@ All sorts of different colabs for all occasions...
   <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/Bert%20embedding.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
-- эксперимент на предмето того, насколько сообщения от одного и того же автора близки в прострастве эмбеддингов<br/>
+- эксперимент на предмет того, насколько сообщения от одного и того же автора близки в прострастве эмбеддингов<br/>
   <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/NLU_clasters.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
