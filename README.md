@@ -20,6 +20,10 @@ All sorts of different colabs for all occasions...
   <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/NLU_clasters.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
+- еще один эксперимент на определение авторства текста. Получилось решить задачу, но с воспроиводимостью не очень... <br/>
+  <a target="_blank" href="https://colab.research.google.com/github/Nehc/myColabs/blob/main/autor.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
 #### Entropy shots:
 - Image entropy<br/>
